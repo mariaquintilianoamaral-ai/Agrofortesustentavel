@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0">
+
+    <title>🌦️ Alerta AgroClima</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body class="sol">
+
+    <!-- EFEITOS -->
+
+    <div id="efeitos"></div>
+
+    <div id="flash"></div>
+
+    <!-- SOL GIGANTE DE FUNDO -->
+
+    <div id="solContainer">
+
+        <div class="sun-rays"></div>
+
+        <div class="sun-core"></div>
+
+    </div>
+
+    <!-- CARD -->
+
+    <div class="container">
+
+        <header>
+
+            <h1>🌦️ Alerta AgroClima</h1>
+
+            <p class="subtitulo">
+
+                Tecnologia e sustentabilidade para o campo.
+
+            </p>
+
+        </header>
+
+        <!-- ÍCONE CLIMÁTICO -->
+
+        <div id="climaVisual">
+
+            ☀️
+
+        </div>
+
+        <!-- FORMULÁRIO -->
+
+        <div class="painel">
+
+            <label>
+
+                🌡️ Temperatura (°C)
+
+            </label>
+
+            <input
+                type="number"
+                id="temperatura"
+                placeholder="Digite a temperatura">
+
+            <label>
+
+                💧 Umidade (%)
+
+            </label>
+
+            <input
+                type="number"
+                id="umidade"
+                placeholder="Digite a umidade">
+
+            <label>
+
+                ☁️ Condição Climática
+
+            </label>
+
+            <select id="clima">
+
+                <option value="sol">
+
+                    ☀️ Ensolarado
+
+                </option>
+
+                <option value="chuva">
+
+                    🌧️ Chuvoso
+
+                </option>
+
+                <option value="tempestade">
+
+                    ⛈️ Tempestade
+
+                </option>
+
+                <option value="seca">
+
+                    🔥 Seca
+
+                </option>
+
+            </select>
+
+            <button onclick="analisar()">
+
+                Analisar Clima
+
+            </button>
+
+        </div>
+
+        <!-- RESULTADO -->
+
+        <div id="resultado">
+
+            <h2>
+
+                Bem-vindo!
+
+            </h2>
+
+            <br>
+
+            <p>
+
+                Escolha uma condição climática e receba orientações sustentáveis para sua produção agrícola.
+
+            </p>
+
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
