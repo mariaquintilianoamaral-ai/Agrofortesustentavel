@@ -1,138 +1,187 @@
-# Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente
+Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente 
 
 # 🌦️ Alerta AgroClima
 
-## 📖 Sobre o Projeto
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
 
-O **Alerta AgroClima** é uma aplicação web desenvolvida para auxiliar agricultores na tomada de decisões relacionadas às condições climáticas, promovendo uma agricultura mais sustentável e consciente.
-
-O projeto foi criado com base no tema do **Agrinho 2026**:
-
-> **"Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente"**
-
-Através da simulação de diferentes condições climáticas, o sistema apresenta alertas e recomendações que ajudam a preservar recursos naturais e melhorar a produtividade agrícola.
-
----
-
-## 🎯 Objetivo
-
-Desenvolver uma ferramenta educativa e interativa capaz de conscientizar sobre a importância do monitoramento climático na agricultura sustentável.
-
-O sistema demonstra como fatores como temperatura, umidade e clima podem influenciar diretamente a produção agrícola e o uso responsável dos recursos naturais.
+<p align="center">
+  <strong>Tecnologia, sustentabilidade e agricultura trabalhando juntas para um futuro melhor.</strong>
+</p>
 
 ---
 
-## 🌱 Sustentabilidade no Projeto
+# 📖 Sobre o Projeto
 
-O Alerta AgroClima incentiva:
+O **Alerta AgroClima** é uma aplicação web interativa desenvolvida para auxiliar agricultores e estudantes na compreensão dos impactos das condições climáticas na produção agrícola.
 
-* Uso consciente da água;
-* Irrigação sustentável;
-* Aproveitamento da água da chuva;
-* Prevenção contra períodos de seca;
-* Proteção das plantações em situações extremas;
-* Redução de desperdícios;
-* Preservação do meio ambiente.
+O sistema simula diferentes cenários climáticos e fornece orientações sustentáveis para a tomada de decisões no campo, incentivando o uso consciente dos recursos naturais e a preservação ambiental.
+
+Este projeto foi desenvolvido com base no tema do **Agrinho 2026**:
+
+> **"Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente."**
 
 ---
 
-## 💻 Tecnologias Utilizadas
+# 🎯 Objetivos
 
-* HTML5
-* CSS3
-* JavaScript
-
----
-
-## 🌦️ Funcionalidades
-
-### ☀️ Ensolarado
-
-* Sol gigante ao fundo;
-* Raios solares animados;
-* Partículas luminosas;
-* Recomendações para atividades agrícolas.
-
-### 🌧️ Chuvoso
-
-* Chuva animada;
-* Nuvens escuras em movimento;
-* Orientações sobre drenagem e aproveitamento da água da chuva.
-
-### ⛈️ Tempestade
-
-* Chuva intensa;
-* Relâmpagos;
-* Galhos voando simulando ventos fortes;
-* Alertas de segurança para propriedades rurais.
-
-### 🔥 Seca
-
-* Efeito de calor;
-* Chamas simulando queimadas;
-* Fumaça discreta ao fundo;
-* Recomendações para economia de água.
+- Incentivar práticas agrícolas sustentáveis;
+- Demonstrar a importância do monitoramento climático;
+- Promover a conscientização ambiental;
+- Integrar tecnologia e agricultura;
+- Simular situações reais enfrentadas pelos agricultores.
 
 ---
 
-## 📊 Monitoramento
+# ✨ Funcionalidades
+
+## ☀️ Ensolarado
+
+- Sol gigante ao fundo da tela;
+- Raios solares animados girando lentamente;
+- Partículas luminosas flutuando;
+- Ambiente visual iluminado;
+- Recomendações para atividades agrícolas.
+
+---
+
+## 🌧️ Chuvoso
+
+- Chuva animada em tempo real;
+- Nuvens escuras atravessando o céu;
+- Ambiente visual mais fechado;
+- Recomendações para aproveitamento da água da chuva;
+- Alertas sobre drenagem do solo.
+
+---
+
+## ⛈️ Tempestade
+
+- Chuva intensa;
+- Relâmpagos automáticos;
+- Céu escurecido;
+- Galhos voando devido aos ventos fortes;
+- Alertas de proteção para equipamentos e plantações.
+
+---
+
+## 🔥 Seca
+
+- Efeito de calor intenso;
+- Queimada simulada ao fundo;
+- Chamas animadas;
+- Fumaça subindo discretamente;
+- Recomendações de economia de água e irrigação eficiente.
+
+---
+
+# 📊 Sistema de Monitoramento
 
 O usuário pode informar:
 
-* Temperatura (°C)
-* Umidade (%)
-* Condição climática
+- 🌡️ Temperatura
+- 💧 Umidade do ar
+- ☁️ Condição climática
 
-Com base nesses dados, o sistema gera alertas personalizados.
-
----
-
-## 🚨 Alertas Inteligentes
-
-O projeto identifica situações como:
-
-### Temperatura Elevada
-
-Quando a temperatura ultrapassa 35°C:
-
-* Alerta de estresse térmico nas plantas.
-
-### Temperatura Baixa
-
-Quando a temperatura fica abaixo de 10°C:
-
-* Alerta sobre possíveis danos às culturas.
-
-### Baixa Umidade
-
-Quando a umidade fica abaixo de 30%:
-
-* Sugestões de irrigação sustentável.
-
-### Alta Umidade
-
-Quando a umidade ultrapassa 80%:
-
-* Avisos sobre fungos e doenças agrícolas.
+Com base nessas informações o sistema gera alertas e recomendações personalizadas.
 
 ---
 
-## 🎨 Diferenciais do Projeto
+# 🚨 Alertas Inteligentes
 
-* Interface moderna e intuitiva;
-* Efeitos climáticos animados;
-* Experiência visual interativa;
-* Fácil utilização;
-* Foco em educação ambiental;
-* Relacionamento direto com o tema do Agrinho.
+## Temperatura Elevada
+
+Quando a temperatura ultrapassa **35°C**:
+
+- Risco de estresse térmico;
+- Necessidade de monitoramento das culturas;
+- Atenção ao consumo de água.
 
 ---
 
-## 📂 Estrutura dos Arquivos
+## Temperatura Baixa
 
-```text
+Quando a temperatura fica abaixo de **10°C**:
+
+- Possíveis danos às plantações;
+- Necessidade de proteção para algumas culturas.
+
+---
+
+## Baixa Umidade
+
+Quando a umidade é inferior a **30%**:
+
+- Sugestão de irrigação sustentável;
+- Monitoramento do solo.
+
+---
+
+## Alta Umidade
+
+Quando a umidade ultrapassa **80%**:
+
+- Possibilidade de fungos;
+- Aumento do risco de doenças agrícolas.
+
+---
+
+# 🌱 Sustentabilidade
+
+O projeto incentiva:
+
+✅ Uso consciente da água
+
+✅ Aproveitamento da água da chuva
+
+✅ Redução de desperdícios
+
+✅ Agricultura sustentável
+
+✅ Monitoramento climático
+
+✅ Preservação ambiental
+
+✅ Produção agrícola responsável
+
+---
+
+# 🖥️ Tecnologias Utilizadas
+
+| Tecnologia | Função |
+|------------|---------|
+| HTML5 | Estrutura da aplicação |
+| CSS3 | Estilização e animações |
+| JavaScript | Interatividade e lógica do sistema |
+
+---
+
+# 🎨 Recursos Visuais
+
+O projeto possui diversos elementos animados para proporcionar uma experiência mais imersiva:
+
+- Sol animado;
+- Raios solares em movimento;
+- Chuva dinâmica;
+- Nuvens escuras;
+- Relâmpagos;
+- Galhos voando;
+- Efeito de calor;
+- Fogo animado;
+- Fumaça de queimadas;
+- Transições suaves.
+
+---
+
+# 📁 Estrutura do Projeto
+
+```bash
 AlertaAgroClima/
-
+│
 ├── index.html
 ├── style.css
 ├── script.js
@@ -141,27 +190,71 @@ AlertaAgroClima/
 
 ---
 
-## 🚀 Como Executar
+# 🚀 Como Executar
 
-1. Baixe os arquivos do projeto.
-2. Abra a pasta do projeto.
-3. Execute o arquivo `index.html`.
-4. Escolha uma condição climática.
-5. Insira temperatura e umidade.
-6. Clique em **Analisar Clima**.
+### 1️⃣ Clone o repositório
+
+```bash
+git clone https://github.com/seu-usuario/AlertaAgroClima.git
+```
+
+### 2️⃣ Entre na pasta
+
+```bash
+cd AlertaAgroClima
+```
+
+### 3️⃣ Abra o projeto
+
+Basta abrir o arquivo:
+
+```bash
+index.html
+```
+
+em qualquer navegador moderno.
 
 ---
 
-## 👩‍🌾 Público-Alvo
+# 👩‍🌾 Público-Alvo
 
-* Estudantes
-* Professores
-* Agricultores
-* Participantes do Programa Agrinho
-* Pessoas interessadas em sustentabilidade e tecnologia no campo
+- Agricultores
+- Estudantes
+- Professores
+- Participantes do Agrinho
+- Entusiastas de tecnologia e sustentabilidade
 
 ---
 
-## 🏆 Conclusão
+# 💡 Possíveis Melhorias Futuras
 
-O **Alerta AgroClima** demonstra como a tecnologia pode contribuir para uma agricultura mais eficiente e sustentável. Ao fornecer alertas e recomendações baseados em condições climáticas, o projeto incentiva a preservação ambiental e o uso responsável dos recursos naturais, fortalecendo a relação entre inovação, produção agrícola e sustentabilidade.
+- Integração com APIs meteorológicas reais;
+- Previsão climática automática;
+- Sistema de login;
+- Histórico de análises;
+- Gráficos climáticos;
+- Mapa interativo da propriedade;
+- Cadastro de culturas agrícolas;
+- Assistente virtual agrícola.
+
+---
+
+# 🏆 Projeto Desenvolvido Para
+
+### Programa Agrinho 2026
+
+**Tema:**
+
+> 🌱 *"Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente."*
+
+---
+
+# 👨‍💻 Autoria
+
+Desenvolvido por **Maria Alice Quintiliano Amaral** como projeto educacional voltado à sustentabilidade, tecnologia e agricultura.
+
+---
+
+<p align="center">
+🌾 Agro forte • 🌱 Futuro sustentável • 🌍 Meio ambiente preservado
+</p>
