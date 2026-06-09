@@ -2,6 +2,8 @@ Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente
 
 # 🌦️ Alerta AgroClima
 
+link da página ndo github pages: https://mariaquintilianoamaral-ai.github.io/Agrofortesustentavel/ 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
